@@ -1,0 +1,4 @@
+It is a text based game that will automatically generate the story based on the users input and action. The only part of the
+story required to initiate the game is the first few lines. The program will analyse the provided script and generate the
+story. It will then wait forthe userinput as it will be used to generate the story further. This ensures that the user doesn’t
+have to play the same story again and can play different scenarios of the same story
